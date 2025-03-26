@@ -9,4 +9,15 @@ body{
 header{
     background-color: #006400;
     font-size: 50px;
+    text-align: center;
 }
+
+
+#primeiraimagem{
+width: 40%;
+display: block;
+margin: 0;
+
+}
+
+
